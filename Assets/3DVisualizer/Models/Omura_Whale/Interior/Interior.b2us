@@ -1,0 +1,137 @@
+<Scene>
+  <Parameters>
+    <Name>Interior</Name>
+  </Parameters>
+  <Objects>
+    <Object>
+      <Name>Cylinder.003</Name>
+      <Prefab>Assets/GTGD S3/My Models/Interior/Prefabs/WVRCylinder.011.fbx</Prefab>
+      <Position>(0.0, 0.0, 0.0)</Position>
+      <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+      <Scale>(1.0, 1.0, 1.0)</Scale>
+      <Static>Keep</Static>
+      <Layer />
+      <Tag />
+      <Parent>None</Parent>
+    </Object>
+    <Object>
+      <Name>Cylinder.002</Name>
+      <Prefab>Assets/GTGD S3/My Models/Interior/Prefabs/WVRCylinder.010.fbx</Prefab>
+      <Position>(0.0, 0.0, 0.0)</Position>
+      <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+      <Scale>(1.0, 1.0, 1.0)</Scale>
+      <Static>Keep</Static>
+      <Layer />
+      <Tag />
+      <Parent>None</Parent>
+    </Object>
+    <Object>
+      <Name>Cylinder.000</Name>
+      <Prefab>Assets/GTGD S3/My Models/Interior/Prefabs/WVRCylinder.009.fbx</Prefab>
+      <Position>(0.0, 0.0, 0.0)</Position>
+      <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+      <Scale>(1.0, 1.0, 1.0)</Scale>
+      <Static>Keep</Static>
+      <Layer />
+      <Tag />
+      <Parent>None</Parent>
+    </Object>
+    <Object>
+      <Name>Cylinder.001</Name>
+      <Prefab>Assets/GTGD S3/My Models/Interior/Prefabs/WVRCylinder.001.fbx</Prefab>
+      <Position>(0.0, 0.0, 0.0)</Position>
+      <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+      <Scale>(1.0, 1.0, 1.0)</Scale>
+      <Static>Keep</Static>
+      <Layer />
+      <Tag />
+      <Parent>None</Parent>
+    </Object>
+    <Object>
+      <Name>Master_Cylinder</Name>
+      <Prefab>Assets/GTGD S3/My Models/Interior/Prefabs/WVRMaster_Cylinder.fbx</Prefab>
+      <Position>(0.0, 0.0, 0.0)</Position>
+      <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+      <Scale>(1.0, 1.0, 1.0)</Scale>
+      <Static>Keep</Static>
+      <Layer />
+      <Tag />
+      <Parent>None</Parent>
+    </Object>
+  </Objects>
+  <Lamps>
+    <Lamp>
+      <Name>Point.007</Name>
+      <Position>(-5.0, 5.06409, 5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+    <Lamp>
+      <Name>Point.006</Name>
+      <Position>(-5.0, 0.76261, 5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+    <Lamp>
+      <Name>Point.005</Name>
+      <Position>(-5.0, 0.76261, -5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+    <Lamp>
+      <Name>Point.004</Name>
+      <Position>(-5.0, 5.06409, -5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+    <Lamp>
+      <Name>Point.003</Name>
+      <Position>(5.0, 5.06409, -5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+    <Lamp>
+      <Name>Point.000</Name>
+      <Position>(5.0, 0.76261, -5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+    <Lamp>
+      <Name>Point.002</Name>
+      <Position>(5.0, 0.76261, 5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+    <Lamp>
+      <Name>Point.001</Name>
+      <Position>(5.0, 5.06409, 5.0)</Position>
+      <Rotation>(-30.000069136717755, 30.000069136717755, 0.0)</Rotation>
+      <Color>(1.0, 1.0, 1.0, 1.0)</Color>
+      <Power>10.0</Power>
+      <Type>POINT</Type>
+      <Parent>None</Parent>
+    </Lamp>
+  </Lamps>
+  <Cameras />
+</Scene>

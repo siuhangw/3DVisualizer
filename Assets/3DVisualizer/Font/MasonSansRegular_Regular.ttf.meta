@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 60b2d3f298a67f64ca33f33ae96fd169
+timeCreated: 1518577910
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MasonSansRegular
+  fontNames:
+  - MasonSansRegular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
