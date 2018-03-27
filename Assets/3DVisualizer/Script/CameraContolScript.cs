@@ -267,7 +267,13 @@ namespace S3
 
         void OnGUI()
         {
-            GUI.Button(new Rect(10, 10, 150, 100), selectedObject.name);
+            //GUI.Button(new Rect(10, 10, 150, 100), selectedObject.name);
+            //GUILayout.Label(selectedObject.name);
+
+
+            var position = Camera.main.WorldToScreenPoint(gameObject.transform.position);
+            var textSize = GUI.skin.label.CalcSize(new GUIContent(selectedObject.name));
+            GUI.Label(new Rect(position.x, Screen.height - position.y, textSize.x, textSize.y), selectedObject.name);
         }
     }
 }

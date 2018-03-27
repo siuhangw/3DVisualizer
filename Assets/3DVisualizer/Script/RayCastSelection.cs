@@ -41,8 +41,17 @@ namespace S3
                     Debug.Log("Target: " + target.name);
                 }
             }
-
             return t;
+        }
+
+        void OnGUI()
+        {
+            //GUI.Button(new Rect(10, 10, 150, 100), selectedObject.name);
+            //GUILayout.Label(target.name);
+            
+            var position = Camera.main.WorldToScreenPoint(target.transform.position);
+            var textSize = GUI.skin.label.CalcSize(new GUIContent(target.name));
+            GUI.Label(new Rect(position.x, Screen.height - position.y, textSize.x, textSize.y), target.name);
         }
     }
 }

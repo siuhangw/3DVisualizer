@@ -12,6 +12,8 @@ namespace S3
         public float speed;
         public float safeDist;
 
+        private float inBetweenDistance;
+
         private void Start()
         {
             t = GameObject.Find("Main Camera").GetComponent<RayCastSelection>();
@@ -27,14 +29,21 @@ namespace S3
 #endif
             {
                 Debug.Log(t.GetTarget());
-                onMove = true;
+                //onMove = true;
             }
-            if (onMove)
+            if (/*onMove && */inBetweenDistance > 4)
             {
-                transform.position = Vector3.MoveTowards(transform.position, t.target.position - new Vector3(0, 0, safeDist), Time.deltaTime * speed);
-                //transform.LookAt(t.target.localPosition);
-                //c.transform.LookAt(t.target.localPosition);
+                MoveToTarget();
             }
+            inBetweenDistance = Vector3.Distance(t.target.position, transform.position);
+            Debug.Log("InBetweenDistance: " + inBetweenDistance);
         }
-	}
+
+        private void MoveToTarget()
+        {
+            transform.position = Vector3.MoveTowards(transform.position, t.target.position - new Vector3(0, 0, safeDist), Time.deltaTime * speed);
+            //transform.LookAt(t.target.localPosition);
+            //c.transform.LookAt(t.target.localPosition);
+        }
+    }
 }
