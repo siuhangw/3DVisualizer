@@ -1,0 +1,13 @@
+<Prefab>
+  <Materials>
+    <Mat>
+      <Name>Material</Name>
+      <Path>Assets/3DVisualizer/Test/Materials</Path>
+    </Mat>
+  </Materials>
+  <Tag>Object</Tag>
+  <Layer>Object</Layer>
+  <Static>Static</Static>
+  <Collider>Box</Collider>
+  <UV2>True</UV2>
+</Prefab>

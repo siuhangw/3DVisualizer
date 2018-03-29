@@ -1,0 +1,5 @@
+<Material>
+  <Shader>Standard</Shader>
+  <Rewrite>True</Rewrite>
+  <Channels />
+</Material>

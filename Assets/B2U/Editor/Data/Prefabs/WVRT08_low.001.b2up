@@ -1,0 +1,13 @@
+<Prefab>
+  <Materials>
+    <Mat>
+      <Name>T08.001</Name>
+      <Path>Assets/3DVisualizer/OmuraWhale/Materials</Path>
+    </Mat>
+  </Materials>
+  <Tag>Untagged</Tag>
+  <Layer>Defalut</Layer>
+  <Static>Static</Static>
+  <Collider>Mesh</Collider>
+  <UV2>True</UV2>
+</Prefab>

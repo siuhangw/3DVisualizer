@@ -1,0 +1,763 @@
+<Group>
+  <Path>Assets/3DVisualizer/OmuraWhale/Groups/Whale_Mesh_GP.b2ug</Path>
+  <Object>
+    <Name>T12_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT12_low.001.fbx</Prefab>
+    <Position>(0.0014, 0.31276, -0.47366)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronI_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronI_low.fbx</Prefab>
+    <Position>(-0.00071, -0.23104, 4.35295)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronH_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronH_low.fbx</Prefab>
+    <Position>(0.00015, -0.24581, 4.21481)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronG_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronG_low.fbx</Prefab>
+    <Position>(0.00054, -0.26973, 4.06239)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronF_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronF_low.fbx</Prefab>
+    <Position>(-0.00236, -0.27773, 3.85853)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronE_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronE_low.fbx</Prefab>
+    <Position>(0.0011, -0.29701, 3.69976)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronD_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronD_low.fbx</Prefab>
+    <Position>(0.00078, -0.28607, 3.48939)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronC_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronC_low.fbx</Prefab>
+    <Position>(0.0002, -0.30526, 3.26441)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronB_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronB_low.fbx</Prefab>
+    <Position>(0.00071, -0.3051, 3.03006)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>ChevronA_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRChevronA_low.fbx</Prefab>
+    <Position>(0.00113, -0.30532, 2.82789)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>UpperArm_Right_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRUpperArm_Right_low.fbx</Prefab>
+    <Position>(-0.61251, -0.26594, -1.79283)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Shoulder_Right_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRShoulder_Right_low.fbx</Prefab>
+    <Position>(-0.5224, 0.00986, -1.93728)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>LowerArm_B_Right_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRLowerArm_B_Right_low.fbx</Prefab>
+    <Position>(-0.65574, -0.25455, -1.44838)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>LowerArm_A_Right_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRLowerArm_A_Right_low.fbx</Prefab>
+    <Position>(-0.67501, -0.37939, -1.47025)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>UpperArm_Left_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRUpperArm_Left_low.fbx</Prefab>
+    <Position>(0.56958, -0.29505, -1.79987)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Shoulder_Left_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRShoulder_Left_low.fbx</Prefab>
+    <Position>(0.50551, -0.00391, -1.90805)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>LowerArm_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRLowerArm_low.fbx</Prefab>
+    <Position>(0.63326, -0.27323, -1.44121)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>LowerArm1B_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRLowerArm1B_low.fbx</Prefab>
+    <Position>(0.66275, -0.38645, -1.45351)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR13_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR13_low.fbx</Prefab>
+    <Position>(-0.43228, 0.10467, 0.0289)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR12_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR12_low.fbx</Prefab>
+    <Position>(-0.44516, 0.06306, -0.12347)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR11_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR11_low.fbx</Prefab>
+    <Position>(-0.44975, 0.03681, -0.21814)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR10_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR10_low.fbx</Prefab>
+    <Position>(-0.47458, 0.01034, -0.36674)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR09_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR09_low.fbx</Prefab>
+    <Position>(-0.47001, -0.05833, -0.48857)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR08_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR08_low.fbx</Prefab>
+    <Position>(-0.50821, -0.10422, -0.57819)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR07_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR07_low.fbx</Prefab>
+    <Position>(-0.45567, -0.12849, -0.75852)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR06_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR06_low.fbx</Prefab>
+    <Position>(-0.49201, -0.15582, -0.97588)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR05_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR05_low.fbx</Prefab>
+    <Position>(-0.4413, -0.14812, -1.19761)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR04_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR04_low.fbx</Prefab>
+    <Position>(-0.40496, -0.18144, -1.35349)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR03_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR03_low.fbx</Prefab>
+    <Position>(-0.37532, -0.17021, -1.51801)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR02_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR02_low.fbx</Prefab>
+    <Position>(-0.32078, -0.16448, -1.68135)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibR01_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibR01_low.fbx</Prefab>
+    <Position>(-0.32843, -0.15516, -1.87496)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL13_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL13_low.fbx</Prefab>
+    <Position>(0.40201, 0.07217, 0.05305)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL12_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL12_low.fbx</Prefab>
+    <Position>(0.41874, 0.07328, -0.11771)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL10_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL10_low.fbx</Prefab>
+    <Position>(0.4336, 0.02211, -0.36786)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL09_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL09_low.fbx</Prefab>
+    <Position>(0.47818, -0.03247, -0.49654)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL08_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL08_low.fbx</Prefab>
+    <Position>(0.49232, -0.07864, -0.58429)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL07_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL07_low.fbx</Prefab>
+    <Position>(0.48081, -0.1122, -0.77249)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL06_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL06_low.fbx</Prefab>
+    <Position>(0.48212, -0.15842, -0.9894)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL05_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL05_low.fbx</Prefab>
+    <Position>(0.42699, -0.14171, -1.20705)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL04_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL04_low.fbx</Prefab>
+    <Position>(0.38952, -0.178, -1.37154)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL03_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL03_low.fbx</Prefab>
+    <Position>(0.36646, -0.15395, -1.56323)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL02_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL02_low.fbx</Prefab>
+    <Position>(0.30618, -0.13802, -1.69095)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>RibL01_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRRibL01_low.fbx</Prefab>
+    <Position>(0.30718, -0.16008, -1.88247)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T13_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT13_low.001.fbx</Prefab>
+    <Position>(-0.00167, 0.31684, -0.30775)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T11_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT11_low.001.fbx</Prefab>
+    <Position>(0.00139, 0.31776, -0.62317)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T10_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT10_low.001.fbx</Prefab>
+    <Position>(-0.00226, 0.32008, -0.80328)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T09_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT09_low.001.fbx</Prefab>
+    <Position>(0.00109, 0.31262, -0.969)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T08_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT08_low.001.fbx</Prefab>
+    <Position>(0.00361, 0.30914, -1.14317)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T07_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT07_low.001.fbx</Prefab>
+    <Position>(0.00113, 0.28822, -1.30707)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T06_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT06_low.001.fbx</Prefab>
+    <Position>(-0.00086, 0.26649, -1.47431)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T05_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT05_low.001.fbx</Prefab>
+    <Position>(-0.00174, 0.24508, -1.60699)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T04_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT04_low.001.fbx</Prefab>
+    <Position>(-0.00345, 0.22276, -1.74215)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T03_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT03_low.001.fbx</Prefab>
+    <Position>(-0.00152, 0.20204, -1.85245)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T02_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT02_low.001.fbx</Prefab>
+    <Position>(0.00349, 0.18431, -1.94474)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>T01_low.001</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRT01_low.001.fbx</Prefab>
+    <Position>(0.00533, 0.17151, -2.02052)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau18_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau18_low.fbx</Prefab>
+    <Position>(3e-05, -0.14503, 4.76186)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau17_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau17_low.fbx</Prefab>
+    <Position>(-0.00098, -0.14359, 4.69901)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau16_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau16_low.fbx</Prefab>
+    <Position>(-0.0, -0.1403, 4.63451)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau15_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau15_low.fbx</Prefab>
+    <Position>(0.00042, -0.13682, 4.56101)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau14_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau14_low.fbx</Prefab>
+    <Position>(-0.00067, -0.13671, 4.48058)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau13_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau13_low.fbx</Prefab>
+    <Position>(-0.00029, -0.13164, 4.38555)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau12_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau12_low.fbx</Prefab>
+    <Position>(0.00041, -0.12711, 4.25971)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau11_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau11_low.fbx</Prefab>
+    <Position>(0.00027, -0.11056, 4.11124)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau10_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau10_low.fbx</Prefab>
+    <Position>(0.00094, -0.09443, 3.94413)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau09_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau09_low.fbx</Prefab>
+    <Position>(0.00108, -0.0796, 3.76578)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau08_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau08_low.fbx</Prefab>
+    <Position>(0.00064, -0.07272, 3.58366)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau07_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau07_low.fbx</Prefab>
+    <Position>(-0.00033, -0.0463, 3.39473)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau06_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau06_low.fbx</Prefab>
+    <Position>(-0.00161, -0.02909, 3.20156)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau05_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau05_low.fbx</Prefab>
+    <Position>(-0.0002, -0.01032, 3.00694)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau04_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau04_low.fbx</Prefab>
+    <Position>(0.00109, 0.01463, 2.80877)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau03_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau03_low.fbx</Prefab>
+    <Position>(0.0016, 0.05416, 2.60742)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau02_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau02_low.fbx</Prefab>
+    <Position>(-0.00546, 0.07712, 2.41926)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Cau01_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCau01_low.fbx</Prefab>
+    <Position>(-0.00144, 0.0813, 2.2279)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L12_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL12_low.fbx</Prefab>
+    <Position>(-0.00446, 0.13936, 2.03156)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L11_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL11_low.fbx</Prefab>
+    <Position>(0.0144, 0.16007, 1.80795)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L10_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL10_low.fbx</Prefab>
+    <Position>(0.03566, 0.1723, 1.59825)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L09_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL09_low.fbx</Prefab>
+    <Position>(0.01721, 0.1953, 1.38101)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L08_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL08_low.fbx</Prefab>
+    <Position>(0.00228, 0.21988, 1.17828)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L07_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL07_low.fbx</Prefab>
+    <Position>(0.01182, 0.23899, 0.98103)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L06_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL06_low.fbx</Prefab>
+    <Position>(-0.00835, 0.25609, 0.77882)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L05_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL05_low.fbx</Prefab>
+    <Position>(0.00618, 0.26696, 0.58701)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L04_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL04_low.fbx</Prefab>
+    <Position>(0.00245, 0.27809, 0.40625)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L03_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL03_low.fbx</Prefab>
+    <Position>(-0.00535, 0.29049, 0.21223)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L02_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL02_low.fbx</Prefab>
+    <Position>(0.00749, 0.2987, 0.02608)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>L01_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRL01_low.fbx</Prefab>
+    <Position>(-0.00381, 0.31664, -0.14449)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Ce7_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCe7_low.fbx</Prefab>
+    <Position>(-0.00458, 0.15849, -2.02758)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Ce6_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCe6_low.fbx</Prefab>
+    <Position>(-0.00206, 0.16253, -2.0674)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Ce5_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCe5_low.fbx</Prefab>
+    <Position>(0.00496, 0.15643, -2.11247)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Ce4_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCe4_low.fbx</Prefab>
+    <Position>(-0.00335, 0.16629, -2.16105)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Ce3_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCe3_low.fbx</Prefab>
+    <Position>(0.00356, 0.1631, -2.2049)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Ce2_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCe2_low.fbx</Prefab>
+    <Position>(0.00062, 0.15983, -2.25439)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Ce1_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRCe1_low.fbx</Prefab>
+    <Position>(0.00086, 0.1584, -2.36496)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Skull_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRSkull_low.fbx</Prefab>
+    <Position>(-4e-05, 0.26623, -3.55715)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Mandible_R_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRMandible_R_low.fbx</Prefab>
+    <Position>(-0.34584, -0.0906, -3.7233)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+  <Object>
+    <Name>Mandible_L_low</Name>
+    <Prefab>Assets/3DVisualizer/OmuraWhale/Prefabs/WVRMandible_L_low.fbx</Prefab>
+    <Position>(0.34882, -0.08033, -3.71395)</Position>
+    <Rotation>(-0.0, 0.0, 0.0)</Rotation>
+    <Scale>(1.0, 1.0, 1.0)</Scale>
+    <Parent>Whale</Parent>
+  </Object>
+</Group>
